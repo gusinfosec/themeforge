@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=ThemeForge
+GenericName=Desktop Themer
+Comment=One-click GNOME theming — themes, icons and wallpapers
+Exec=themeforge-gui
+Icon=applications-graphics
+Terminal=false
+Categories=GTK;Settings;DesktopSettings;Utility;
+Keywords=theme;theming;gtk;gnome;icons;wallpaper;customize;

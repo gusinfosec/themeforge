@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "themeforge"
+version = "0.1.0"
+description = "One-click GNOME theming for Ubuntu, Fedora and Arch — curated Looks, icons and wallpapers in your user directories"
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+authors = [{ name = "ThemeForge contributors" }]
+keywords = ["gnome", "theme", "gtk", "icons", "wallpapers", "libadwaita", "theming"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Environment :: X11 Applications :: GTK",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: POSIX :: Linux",
+    "Programming Language :: Python :: 3",
+    "Topic :: Desktop Environment :: Gnome",
+]
+# PyGObject (GTK 4 + libadwaita) intentionally comes from the distro
+# (python3-gobject) — see README. The CLI works without it.
+dependencies = []
+
+[project.scripts]
+themeforge = "themeforge.cli:main"
+
+[project.gui-scripts]
+themeforge-gui = "themeforge.gui:run_gui"
+
+[tool.setuptools]
+packages = ["themeforge"]
+
+[tool.setuptools.package-data]
+themeforge = ["data/*.json"]

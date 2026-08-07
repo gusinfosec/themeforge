@@ -1,0 +1,298 @@
+{
+  "schema": 1,
+  "families": [
+    {
+      "id": "catppuccin-mocha",
+      "name": "Catppuccin Mocha",
+      "kind": "gtk",
+      "author": "Catppuccin",
+      "license": "MIT",
+      "homepage": "https://github.com/catppuccin/gtk",
+      "source": {"type": "github", "owner": "catppuccin", "repo": "gtk"},
+      "strategy": "asset",
+      "asset_pattern": "catppuccin-mocha-mauve-standard+default.zip"
+    },
+    {
+      "id": "catppuccin-latte",
+      "name": "Catppuccin Latte",
+      "kind": "gtk",
+      "author": "Catppuccin",
+      "license": "MIT",
+      "homepage": "https://github.com/catppuccin/gtk",
+      "source": {"type": "github", "owner": "catppuccin", "repo": "gtk"},
+      "strategy": "asset",
+      "asset_pattern": "catppuccin-latte-mauve-standard+default.zip"
+    },
+    {
+      "id": "dracula",
+      "name": "Dracula",
+      "kind": "gtk",
+      "author": "Dracula",
+      "license": "MIT",
+      "homepage": "https://github.com/dracula/gtk",
+      "source": {"type": "github", "owner": "dracula", "repo": "gtk"},
+      "strategy": "asset",
+      "asset_pattern": "Dracula.tar.xz"
+    },
+    {
+      "id": "orchis",
+      "name": "Orchis",
+      "kind": "gtk",
+      "author": "vinceliuice",
+      "license": "GPL-3.0",
+      "homepage": "https://github.com/vinceliuice/orchis-theme",
+      "source": {"type": "github", "owner": "vinceliuice", "repo": "orchis-theme"},
+      "strategy": "script",
+      "script_args": ["-d", "{themes_dir}"]
+    },
+    {
+      "id": "whitesur",
+      "name": "WhiteSur",
+      "kind": "gtk",
+      "author": "vinceliuice",
+      "license": "GPL-3.0",
+      "homepage": "https://github.com/vinceliuice/WhiteSur-gtk-theme",
+      "source": {"type": "github", "owner": "vinceliuice", "repo": "WhiteSur-gtk-theme"},
+      "strategy": "script",
+      "script_args": ["-d", "{themes_dir}"]
+    },
+    {
+      "id": "colloid",
+      "name": "Colloid",
+      "kind": "gtk",
+      "author": "vinceliuice",
+      "license": "GPL-3.0",
+      "homepage": "https://github.com/vinceliuice/Colloid-gtk-theme",
+      "source": {"type": "github", "owner": "vinceliuice", "repo": "Colloid-gtk-theme"},
+      "strategy": "script",
+      "script_args": ["-d", "{themes_dir}"]
+    },
+    {
+      "id": "fluent",
+      "name": "Fluent",
+      "kind": "gtk",
+      "author": "vinceliuice",
+      "license": "GPL-3.0",
+      "homepage": "https://github.com/vinceliuice/Fluent-gtk-theme",
+      "source": {"type": "github", "owner": "vinceliuice", "repo": "Fluent-gtk-theme"},
+      "strategy": "script",
+      "script_args": ["-d", "{themes_dir}"]
+    },
+    {
+      "id": "graphite",
+      "name": "Graphite",
+      "kind": "gtk",
+      "author": "vinceliuice",
+      "license": "GPL-3.0",
+      "homepage": "https://github.com/vinceliuice/Graphite-gtk-theme",
+      "source": {"type": "github", "owner": "vinceliuice", "repo": "Graphite-gtk-theme"},
+      "strategy": "script",
+      "script_args": ["-d", "{themes_dir}"]
+    },
+    {
+      "id": "papirus",
+      "name": "Papirus",
+      "kind": "icons",
+      "author": "Papirus Development Team",
+      "license": "GPL-3.0",
+      "homepage": "https://github.com/PapirusDevelopmentTeam/papirus-icon-theme",
+      "source": {"type": "github", "owner": "PapirusDevelopmentTeam", "repo": "papirus-icon-theme"},
+      "strategy": "script",
+      "script_args": ["-d", "{icons_dir}"],
+      "script_env": {"DESTDIR": "{icons_dir}"}
+    },
+    {
+      "id": "tela",
+      "name": "Tela",
+      "kind": "icons",
+      "author": "vinceliuice",
+      "license": "GPL-3.0",
+      "homepage": "https://github.com/vinceliuice/Tela-icon-theme",
+      "source": {"type": "github", "owner": "vinceliuice", "repo": "Tela-icon-theme"},
+      "strategy": "script",
+      "script_args": ["-d", "{icons_dir}"]
+    },
+    {
+      "id": "colloid-icons",
+      "name": "Colloid Icons",
+      "kind": "icons",
+      "author": "vinceliuice",
+      "license": "GPL-3.0",
+      "homepage": "https://github.com/vinceliuice/Colloid-icon-theme",
+      "source": {"type": "github", "owner": "vinceliuice", "repo": "Colloid-icon-theme"},
+      "strategy": "script",
+      "script_args": ["-d", "{icons_dir}"]
+    },
+    {
+      "id": "fluent-icons",
+      "name": "Fluent Icons",
+      "kind": "icons",
+      "author": "vinceliuice",
+      "license": "GPL-3.0",
+      "homepage": "https://github.com/vinceliuice/Fluent-icon-theme",
+      "source": {"type": "github", "owner": "vinceliuice", "repo": "Fluent-icon-theme"},
+      "strategy": "script",
+      "script_args": ["-d", "{icons_dir}"]
+    },
+    {
+      "id": "wallpaper-catppuccin-mocha",
+      "name": "Catppuccin Mocha Wallpaper",
+      "kind": "wallpaper",
+      "author": "Catppuccin community",
+      "license": "see source repo",
+      "homepage": "https://github.com/orangci/walls-catppuccin-mocha",
+      "source": {
+        "type": "url",
+        "url": "https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/astronaut.png",
+        "filename": "catppuccin-mocha.png"
+      },
+      "strategy": "asset"
+    },
+    {
+      "id": "wallpaper-catppuccin-latte",
+      "name": "Catppuccin Latte Wallpaper",
+      "kind": "wallpaper",
+      "author": "Catppuccin community",
+      "license": "see source repo",
+      "homepage": "https://github.com/iQuickDev/catppuccin-wallpapers",
+      "source": {
+        "type": "url",
+        "url": "https://raw.githubusercontent.com/iQuickDev/catppuccin-wallpapers/master/flatppuccin/flatppuccin_4k_macchiato_inverted.png",
+        "filename": "catppuccin-latte.png"
+      },
+      "strategy": "asset"
+    },
+    {
+      "id": "wallpaper-dracula",
+      "name": "Dracula Wallpaper",
+      "kind": "wallpaper",
+      "author": "Dracula",
+      "license": "MIT",
+      "homepage": "https://github.com/dracula/wallpaper",
+      "source": {
+        "type": "url",
+        "url": "https://raw.githubusercontent.com/dracula/wallpaper/master/first-collection/base.png",
+        "filename": "dracula.png"
+      },
+      "strategy": "asset"
+    },
+    {
+      "id": "wallpaper-rose-pine",
+      "name": "Rosé Pine Wallpaper",
+      "kind": "wallpaper",
+      "author": "Rosé Pine",
+      "license": "MIT",
+      "homepage": "https://github.com/rose-pine/wallpapers",
+      "source": {
+        "type": "url",
+        "url": "https://raw.githubusercontent.com/rose-pine/wallpapers/main/generative/circle.png",
+        "filename": "rose-pine.png"
+      },
+      "strategy": "asset"
+    },
+    {
+      "id": "wallpaper-orchis",
+      "name": "Orchis Wallpaper",
+      "kind": "wallpaper",
+      "author": "vinceliuice",
+      "license": "GPL-3.0",
+      "homepage": "https://github.com/vinceliuice/orchis-theme",
+      "source": {
+        "type": "url",
+        "url": "https://raw.githubusercontent.com/vinceliuice/orchis-theme/master/wallpaper/2k.jpg",
+        "filename": "orchis.jpg"
+      },
+      "strategy": "asset"
+    },
+    {
+      "id": "wallpaper-colloid",
+      "name": "Colloid Wallpaper",
+      "kind": "wallpaper",
+      "author": "vinceliuice",
+      "license": "GPL-3.0",
+      "homepage": "https://github.com/vinceliuice/GNOME-Wallpaper-Collection",
+      "source": {
+        "type": "url",
+        "url": "https://raw.githubusercontent.com/vinceliuice/GNOME-Wallpaper-Collection/main/assets/Windham_Pool.png",
+        "filename": "colloid.png"
+      },
+      "strategy": "asset"
+    },
+    {
+      "id": "wallpaper-whitesur",
+      "name": "WhiteSur Wallpaper",
+      "kind": "wallpaper",
+      "author": "vinceliuice",
+      "license": "GPL-3.0",
+      "homepage": "https://github.com/vinceliuice/WhiteSur-wallpapers",
+      "source": {
+        "type": "url",
+        "url": "https://raw.githubusercontent.com/vinceliuice/WhiteSur-wallpapers/main/2k/WhiteSur-dark.jpg",
+        "filename": "whitesur.jpg"
+      },
+      "strategy": "asset"
+    }
+  ],
+  "looks": [
+    {
+      "id": "catppuccin-mocha",
+      "name": "Catppuccin Mocha",
+      "description": "A cozy dark theme with soft pastel accents — a favourite on every distro.",
+      "gtk_theme": "catppuccin-mocha",
+      "shell_theme": "catppuccin-mocha",
+      "icon_theme": "papirus",
+      "color_scheme": "prefer-dark",
+      "wallpaper": "wallpaper-catppuccin-mocha"
+    },
+    {
+      "id": "catppuccin-latte",
+      "name": "Catppuccin Latte",
+      "description": "The same pastel palette in a bright, warm light mode.",
+      "gtk_theme": "catppuccin-latte",
+      "shell_theme": "catppuccin-latte",
+      "icon_theme": "papirus",
+      "color_scheme": "default",
+      "wallpaper": "wallpaper-catppuccin-latte"
+    },
+    {
+      "id": "dracula",
+      "name": "Dracula",
+      "description": "The iconic dark purple-grey palette, instantly recognisable.",
+      "gtk_theme": "dracula",
+      "shell_theme": null,
+      "icon_theme": "tela",
+      "color_scheme": "prefer-dark",
+      "wallpaper": "wallpaper-dracula"
+    },
+    {
+      "id": "orchis-light",
+      "name": "Orchis Light",
+      "description": "Clean, rounded and modern — a calm light desktop.",
+      "gtk_theme": "orchis",
+      "shell_theme": null,
+      "icon_theme": "fluent-icons",
+      "color_scheme": "default",
+      "wallpaper": "wallpaper-orchis"
+    },
+    {
+      "id": "colloid-dark",
+      "name": "Colloid Dark",
+      "description": "A sleek dark theme with subtle translucent surfaces.",
+      "gtk_theme": "colloid",
+      "shell_theme": null,
+      "icon_theme": "colloid-icons",
+      "color_scheme": "prefer-dark",
+      "wallpaper": "wallpaper-colloid"
+    },
+    {
+      "id": "whitesur",
+      "name": "WhiteSur",
+      "description": "The polished macOS-inspired look — rounded, glassy and bright.",
+      "gtk_theme": "whitesur",
+      "shell_theme": null,
+      "icon_theme": "fluent-icons",
+      "color_scheme": "default",
+      "wallpaper": "wallpaper-whitesur"
+    }
+  ]
+}

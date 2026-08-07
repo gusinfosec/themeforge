@@ -1,0 +1,3 @@
+# GUI (GTK 4 + libadwaita) — the only runtime dependency.
+# Install with: pip install -r requirements.txt  (or your distro's python-gobject)
+PyGObject>=3.46
