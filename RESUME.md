@@ -119,13 +119,22 @@ Shell themes only appear after re-login (the engine flags this).
 
 ## Roadmap / natural next steps
 
-1. `git init` + first commit; push to GitHub (free repo + releases)
+1. ✅ DONE — repo created and pushed: **http://100.108.60.110:3000/gus/themeforge** (public, `main`)
+   (`git init`, first commit `255491b`, pushed over SSH from this machine)
 2. Set up itch.io page (upload wheel/tarball + screenshots), Ko-fi page, GitHub Sponsors
 3. Native packaging: Fedora (.rpm spec) and Arch (AUR PKGBUILD); Ubuntu .deb later
 4. More families (Tokyo Night, Everforest, Gruvbox, Dracula Shell) — verify sources first
 5. `select` globs per Look so light/dark Looks pick matching variants deterministically
 6. Live theme previews (screenshots); TUI (rich/textual); Flatpak packaging
 7. Release-grade hardening: pinned tags + SHA-256 checksums
+
+## Repo & git (session 3)
+
+- Repo **`gus/themeforge`** created via Gitea API (public, default branch `main`,
+  topics: gnome/gtk/libadwaita/linux/theming/wallpapers).
+- First commit `255491b` pushed; `origin` set, `main` tracks `origin/main`.
+- This machine pushes to Gitea over **SSH** (`ssh://100.108.60.110:2222`) — a
+  global URL rewrite handles it; no credentials stored in `.git/config`.
 
 ## Files changed this session (session 2, all under /home/gus/coding/themeforge/)
 

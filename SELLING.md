@@ -8,7 +8,7 @@
 
 | Channel | Purpose | Fee | URL (placeholder) |
 |---|---|---|---|
-| GitHub / Gitea repo | free source, releases | — | your Gitea instance |
+| Gitea repo | free source, releases | — | http://100.108.60.110:3000/gus/themeforge |
 | itch.io | paid pay-what-you-want download | 10% platform (default) + ~2.9%+$0.30 processing | `https://YOUR-NAME.itch.io/themeforge` |
 | Ko-fi | one-off tips | 0% on tips | `https://ko-fi.com/YOUR-HANDLE` |
 | GitHub Sponsors | recurring support | 0% on personal accounts | (enable when repo is live) |
