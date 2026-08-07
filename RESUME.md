@@ -130,9 +130,12 @@ Shell themes only appear after re-login (the engine flags this).
 
 ## Repo & git (session 3)
 
-- Repo **`gus/themeforge`** created via Gitea API (public, default branch `main`,
-  topics: gnome/gtk/libadwaita/linux/theming/wallpapers).
+- Repo **`gus/themeforge`** created via Gitea API (default branch `main`, topics:
+  gnome/gtk/libadwaita/linux/theming/wallpapers). **Private** — flipped to
+  private on 2026-08-07 per user; go public when polished.
 - First commit `255491b` pushed; `origin` set, `main` tracks `origin/main`.
+- Release **v0.1.0** published (release id 26) with `themeforge-0.1.0.tar.gz`
+  + `themeforge-0.1.0-py3-none-any.whl` attached; tag `v0.1.0` pushed.
 - This machine pushes to Gitea over **SSH** (`ssh://100.108.60.110:2222`) — a
   global URL rewrite handles it; no credentials stored in `.git/config`.
 
