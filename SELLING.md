@@ -10,9 +10,9 @@
 |---|---|---|---|
 | Gitea repo | free source, releases | — | http://100.108.60.110:3000/gus/themeforge |
 | itch.io | paid download | 10% platform (default) + ~2.9%+$0.30 processing | `https://cyberlab.itch.io/themeforge` |
-| Ko-fi | one-off tips | 0% on tips | (create page) |
-| GitHub Sponsors | recurring support | 0% on personal accounts | (enable when repo is live) |
-| Payhip (later) | paid download + license keys, EU VAT handled | 5% free / 2% Plus | — |
+| Ko-fi | paid download (shop) | ~5% + processing | `https://ko-fi.com/s/680f36c441` |
+| GitHub Sponsors | recurring support | 0% on personal accounts | https://github.com/gusinfosec/themeforge (enable once repo is public) |
+| Payhip | paid download, EU VAT handled (Cyberlab store) | 5% free / 2% Plus | `https://payhip.com/b/n82Sq` (store: `https://payhip.com/cyberlabgames`) |
 
 ## Pricing (unified — one price everywhere)
 
@@ -120,9 +120,12 @@ Run:
 
 ---
 
-## Ko-fi page
+## Ko-fi shop item
 
-- **Page name:** ThemeForge
+- **Shop URL:** `https://ko-fi.com/s/680f36c441` (product: ThemeForge — GNOME One-Click Theming)
+- **Price:** **$12.00 USD fixed** (pay-what-you-want off — matches itch.io)
+- **Type:** Digital item (attachment: `themeforge-0.1.0.tar.gz`)
+- **Cover image:** `cover.png` (reused from the itch.io page)
 - **Tagline:** Support open-source GNOME theming
 - **Text:**
 
@@ -131,6 +134,41 @@ ThemeForge is a free, open-source one-click theming app for GNOME
 (Ubuntu, Fedora, Arch). If it made your desktop feel like home, a coffee
 keeps the catalog growing — new Looks, wallpapers and distro packages.
 ```
+
+---
+
+## Payhip shop item (Cyberlab store)
+
+- **Store:** `https://payhip.com/cyberlabgames` (display name **Cyberlab**, dark
+  Tusk theme, About Me section)
+- **ThemeForge product URL:** `https://payhip.com/b/n82Sq`
+- **Price:** **$12.00 USD fixed** (matches itch.io + Ko-fi)
+- **Type:** Digital product (file: `themeforge-0.1.0.tar.gz`)
+- **Cover image:** `release/themeforge-cover.png`
+- **Description:** same long description as itch (plain text, no markdown)
+
+### Full Cyberlab catalog on Payhip (Phase 1)
+
+The store also mirrors the itch catalog (all prices matched to itch):
+
+| Product | Price |
+|---|---|
+| ThemeForge | $12.00 |
+| SECTOR-9 — Co-op Combat Simulation | $9.99 |
+| HUSH | $7.99 |
+| DESCENT | $7.99 |
+| COMPLETE COLLECTION | $44.99 |
+| HORROR COLLECTION | $19.99 |
+| STRATEGY COLLECTION | $12.99 |
+| CLASSICS COLLECTION | $8.99 |
+| Dungeon Gen Toolkit | $9.99 |
+| Tower Defense Toolkit | $9.99 |
+| Horror Atmosphere Toolkit | $9.99 |
+| Cyberlab Systems Collection | $24.99 |
+
+**Rule:** keep every product price identical across itch.io, Ko-fi and Payhip.
+Phase 2 (pending Payhip game sales): mirror the long-tail games (Solitaire,
+Breaker, 3D Checkers, etc.).
 
 ---
 

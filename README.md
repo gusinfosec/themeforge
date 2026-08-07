@@ -1,11 +1,12 @@
 # ThemeForge
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/python-3.12+-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Ubuntu%20%7C%20Fedora%20%7C%20Arch-lightgrey.svg)
 ![GUI](https://img.shields.io/badge/GTK-4%20%2F%20libadwaita-green.svg)
 [![Buy on itch.io](https://img.shields.io/badge/buy_on-itch.io-fa5c5c.svg)](https://cyberlab.itch.io/themeforge)
-[![Support on Ko-fi](https://img.shields.io/badge/support-Ko--fi-ff5e5b.svg)](https://ko-fi.com/YOUR-HANDLE)
+[![Support on Ko-fi](https://img.shields.io/badge/support-Ko--fi-ff5e5b.svg)](https://ko-fi.com/s/680f36c441)
+[![Buy on Payhip](https://img.shields.io/badge/buy_on-Payhip-0e7fbf.svg)](https://payhip.com/b/n82Sq)
 
 A **Theme Studio-style one-click desktop theming app for GNOME** — built for
 **Ubuntu, Fedora and Arch**. Browse curated *Looks* (a coordinated GTK theme +
@@ -157,8 +158,10 @@ into the catalog:
 
 - **itch.io** — the latest release for **$12**:
   https://cyberlab.itch.io/themeforge
-- **Ko-fi** — buy me a coffee: https://ko-fi.com/YOUR-HANDLE
-- **GitHub Sponsors** — recurring support: (link once sponsors are enabled)
+- **Ko-fi** — the $12 download (same as itch): https://ko-fi.com/s/680f36c441
+- **Payhip** — the $12 download (same as itch): https://payhip.com/b/n82Sq
+- **GitHub Sponsors** — recurring support: https://github.com/gusinfosec/themeforge
 
-> Replace the `YOUR-NAME` / `YOUR-HANDLE` placeholders above with your real
-> storefront links when the pages are live.
+## License
+
+MIT — see [LICENSE](LICENSE). Free for commercial use.
