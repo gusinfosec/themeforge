@@ -128,6 +128,16 @@ Shell themes only appear after re-login (the engine flags this).
 6. Live theme previews (screenshots); TUI (rich/textual); Flatpak packaging
 7. Release-grade hardening: pinned tags + SHA-256 checksums
 
+## Pricing & storefront (session 3, decided by user)
+
+- **Price: $12.00 USD flat** on every paid channel (itch.io / Payhip / Ko-fi
+  shop) — recorded in SELLING.md.
+- **itch.io page: new project under the existing cyberlabgames account**
+  (`cyberlab.itch.io/themeforge`) — not a separate account, not the games page.
+- **Screenshots generated** (real captures, OCR-verified) in `screenshots/`:
+  looks, themes, icons, wallpapers (GUI) + cli. GUI renders dark on this box.
+- Release artifacts live in `dist/` (gitignored): tarball + wheel.
+
 ## Repo & git (session 3)
 
 - Repo **`gus/themeforge`** created via Gitea API (default branch `main`, topics:

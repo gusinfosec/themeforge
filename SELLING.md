@@ -6,23 +6,34 @@
 
 ## Where ThemeForge is sold / supported
 
-| Channel | Purpose | Fee | URL (placeholder) |
+| Channel | Purpose | Fee | URL |
 |---|---|---|---|
 | Gitea repo | free source, releases | — | http://100.108.60.110:3000/gus/themeforge |
-| itch.io | paid pay-what-you-want download | 10% platform (default) + ~2.9%+$0.30 processing | `https://YOUR-NAME.itch.io/themeforge` |
-| Ko-fi | one-off tips | 0% on tips | `https://ko-fi.com/YOUR-HANDLE` |
+| itch.io | paid download | 10% platform (default) + ~2.9%+$0.30 processing | `https://cyberlab.itch.io/themeforge` |
+| Ko-fi | one-off tips | 0% on tips | (create page) |
 | GitHub Sponsors | recurring support | 0% on personal accounts | (enable when repo is live) |
 | Payhip (later) | paid download + license keys, EU VAT handled | 5% free / 2% Plus | — |
+
+## Pricing (unified — one price everywhere)
+
+**$12.00 USD — fixed, on every paid channel** (itch.io, Payhip, Ko-fi shop).
+No pay-what-you-want variants, no regional pricing — the same number everywhere
+so buyers never see a cheaper version and wonder why.
+
+Net per sale at $12 (approx):
+- itch.io: $12 − 10% ($1.20) − ~2.9%+$0.30 ($0.65) ≈ **$10.15**
+- Payhip free plan: $12 − 5% ($0.60) − processing ≈ **$10.90**
+- Ko-fi shop: $12 − 5% ($0.60) − processing ≈ **$10.90**
 
 ---
 
 ## itch.io listing
 
-- **Page URL:** `https://YOUR-NAME.itch.io/themeforge`
+- **Page URL:** `https://cyberlab.itch.io/themeforge` (new project page under the
+  existing cyberlabgames account — separate from your games, same payout)
 - **Classification:** Tools → Desktop → Customization
-- **Pricing:** Pay-what-you-want — **$3 minimum, $5 suggested**
-  (below ~$2 the $0.30 + 2.9% processor fee eats the margin; itch recommends ≥ $2)
-- **Visibility:** public
+- **Pricing:** **$12.00 USD fixed** (unified across all platforms)
+- **Visibility:** public (flip to public when the repo goes public)
 
 ### Short tagline
 
@@ -69,17 +80,24 @@ walled content.
 gnome, theme, linux, desktop, gtk, libadwaita, icons, wallpaper, customization
 ```
 
-### Screenshots (5–8, 16:9)
+### Screenshots
 
-1. GUI — Looks tab (curated Looks with Apply buttons)
-2. GUI — Wallpapers tab with search
-3. Desktop "before / after" shot (stock → Catppuccin Mocha Look)
-4. CLI — `themeforge apply --dry-run dracula` output
-5. CLI — `themeforge status` output
-6. GUI — Uninstall confirmation dialog
-7. (optional) Wallpaper showcase — the 7 wallpapers side by side
+Already generated (repo: `screenshots/`, real captures, verified by OCR):
 
-Cover image: the app window over a themed desktop.
+| File | Shows |
+|---|---|
+| `screenshots/themeforge-looks.png` | GUI — Looks tab (all 6 Looks + Apply buttons) |
+| `screenshots/themeforge-themes.png` | GUI — Themes tab with search |
+| `screenshots/themeforge-icons.png` | GUI — Icons tab |
+| `screenshots/themeforge-wallpapers.png` | GUI — Wallpapers tab |
+| `screenshots/themeforge-cli.png` | CLI — `themeforge list` + `apply --dry-run` in a terminal |
+
+All are 919×945 window captures (dark theme). itch's editor can crop a 16:9
+cover from them. Optional extras for later: a desktop before/after shot and the
+Uninstall dialog.
+
+Cover image: `themeforge-looks.png` cropped to 16:9, or a fresh full-desktop
+shot once the Look is applied on a real GNOME session.
 
 ### Upload file
 

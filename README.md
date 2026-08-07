@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3.12+-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Ubuntu%20%7C%20Fedora%20%7C%20Arch-lightgrey.svg)
 ![GUI](https://img.shields.io/badge/GTK-4%20%2F%20libadwaita-green.svg)
-[![Buy on itch.io](https://img.shields.io/badge/buy_on-itch.io-fa5c5c.svg)](https://YOUR-NAME.itch.io/themeforge)
+[![Buy on itch.io](https://img.shields.io/badge/buy_on-itch.io-fa5c5c.svg)](https://cyberlab.itch.io/themeforge)
 [![Support on Ko-fi](https://img.shields.io/badge/support-Ko--fi-ff5e5b.svg)](https://ko-fi.com/YOUR-HANDLE)
 
 A **Theme Studio-style one-click desktop theming app for GNOME** — built for
@@ -20,6 +20,16 @@ ships an original catalog of *open-source* themes (see [Licenses](#licenses)).
 
 > Inspired by Theme Studio (Linux Tex). ThemeForge is an independent, original
 > implementation and is **not** affiliated with or endorsed by Linux Tex.
+
+## Screenshots
+
+![ThemeForge Looks](screenshots/themeforge-looks.png)
+*Curated Looks — one click applies themes + icons + mode + wallpaper.*
+
+![ThemeForge CLI](screenshots/themeforge-cli.png)
+*The CLI: `themeforge list` and a `--dry-run` apply preview.*
+
+More in [`screenshots/`](screenshots/) (Themes, Icons and Wallpapers tabs).
 
 ## Requirements
 
@@ -145,8 +155,8 @@ ThemeForge is free and open source. If it saves you time or makes your desktop
 yours, consider supporting development — every contribution goes straight back
 into the catalog:
 
-- **itch.io** — pay-what-you-want download of the latest release:
-  https://YOUR-NAME.itch.io/themeforge
+- **itch.io** — the latest release for **$12**:
+  https://cyberlab.itch.io/themeforge
 - **Ko-fi** — buy me a coffee: https://ko-fi.com/YOUR-HANDLE
 - **GitHub Sponsors** — recurring support: (link once sponsors are enabled)
 
