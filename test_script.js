@@ -21,7 +21,7 @@ const { chromium } = require('playwright');
 
   // Fill login form
   await page.fill('input[name="username"], input[id*="user"], input[type="text"]', 'cyberlab');
-  await page.fill('input[name="password"], input[type="password"]', '[REDACTED]');
+  await page.fill('input[name="password"], input[type="password"]', 'process.env.GOL_PASSWORD');
   
   // Submit
   const submitBtn = await page.$('button[type="submit"], input[type="submit"], button:has-text("Login")');
