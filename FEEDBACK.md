@@ -33,7 +33,12 @@ replies, escalate Thunderbird to a serious feature request.
 
 | Type | From | On | Note |
 |------|------|----|------|
-| ❤️ Favourite | @eutechnews | OutreachSafe | Also followed @cyberlab |
-| 🔁 Boost | @FDT123 (kolektiva.social) | InboxSafe | Fediverse reach |
-| 🔁 Boost | @prometheus (pmth.us) | MergeMind | Fediverse reach |
-| 💬 Mention | @simonzerafa (infosec.exchange) | InboxSafe | See #1 above |
+| ❤️ Favourite | @eutechnews | OutreachSafe | Also followed @cyberlab — ✅ replied |
+| 🔁 Boost | @FDT123 (kolektiva.social) | InboxSafe | Fediverse reach — ✅ replied |
+| 🔁 Boost | @prometheus (pmth.us) | MergeMind | Fediverse reach — ✅ replied |
+| 💬 Mention | @simonzerafa (infosec.exchange) | InboxSafe | See #1 above — ✅ replied |
+
+**Thank-you replies sent 2026-08-08** (all public, verified 200):
+- @FDT123 → https://mastodon.social/@cyberlab/117062100721808760
+- @prometheus → https://mastodon.social/@cyberlab/117062100752919742
+- @eutechnews → https://mastodon.social/@cyberlab/117062100778335630
