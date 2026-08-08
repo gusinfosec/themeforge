@@ -10,7 +10,7 @@ All posts below are **LIVE** on https://mastodon.social/@cyberlab (posted 2026-0
 | 4 | InboxSafe | ✅ LIVE | https://mastodon.social/@cyberlab/117061646322968169 |
 | 5 | OutreachSafe | ✅ LIVE | https://mastodon.social/@cyberlab/117061646552699049 |
 | 6 | Games (itch.io) | ✅ LIVE | https://mastodon.social/@cyberlab/117061646852196767 |
-| 7 | Store hub (Payhip + itch) | ✅ LIVE | https://mastodon.social/@cyberlab/117061902475860764 |
+| 7 | Store hub (Payhip + itch) | ✅ LIVE + 📌 PINNED | https://mastodon.social/@cyberlab/117061902475860764 |
 | 8 | ThemeForge (earlier launch) | ✅ LIVE | https://mastodon.social/@cyberlab/117061586779952470 |
 
 ---
@@ -87,14 +87,16 @@ https://cyberlab.itch.io
 
 ---
 
-## 7. Payhip store (draft — not posted)
+## 7. Store hub (Payhip + itch) — LIVE + 📌 PINNED
 
-One store for everything Cyberlab: ThemeForge (one-click GNOME theming),
-games and dev toolkits — with EU VAT handled.
+**https://mastodon.social/@cyberlab/117061902475860764** (pinned to profile top)
 
-https://payhip.com/cyberlabgames
+🛒 Everything Cyberlab in one place:
 
-#Linux #GNOME #IndieDev #OpenSource
+Payhip (ThemeForge + games + toolkits, EU VAT handled): https://payhip.com/cyberlabgames
+itch.io (games + ThemeForge): https://cyberlab.itch.io
+
+#Linux #GNOME #IndieDev #OpenSource #GameDev
 
 ---
 
