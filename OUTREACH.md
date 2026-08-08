@@ -87,6 +87,7 @@
       `/submit-article/`)
 - [x] Access email drafted + saved: `GOL-EMAIL.md` (project root) — send from
       `info@cyberglobal.ai` to `contact@gamingonlinux.com`
+- [x] Access email **sent** to `contact@gamingonlinux.com` (2026-08-08)
 - [ ] GOL enables article-writer access (author mugshot upload on
       `usercp.php?module=author_photo`)
 - [ ] Author mugshot uploaded
