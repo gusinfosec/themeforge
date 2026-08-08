@@ -73,4 +73,27 @@
 - [ ] X post (paste from §2)
 - [ ] Show HN (paste from §3)
 - [ ] awesome-gnome PR (needs public repo URL — see §4)
-- [ ] OMG!Ubuntu / FOSS emails (send from §5)
+- [x] OMG!Ubuntu / FOSS emails (send from §5)
+
+## 7. GamingOnLinux community article (in progress)
+
+> Status as of 2026-08-08. Account: `cyberlab` on gamingonlinux.com.
+
+- [x] Account created + **activated** (verified with a fresh session — earlier
+      "not activated" was a stale browser-cache false alarm)
+- [x] **Profile completed** on GOL: Article Bio + Website saved
+      (`https://cyberlab.itch.io/themeforge`) — "Profile updated!"
+- [x] Article draft ready: `GOL-ARTICLE.md` (paste Title + Body into
+      `/submit-article/`)
+- [x] Access email drafted + saved: `GOL-EMAIL.md` (project root) — send from
+      `info@cyberglobal.ai` to `contact@gamingonlinux.com`
+- [ ] GOL enables article-writer access (author mugshot upload on
+      `usercp.php?module=author_photo`)
+- [ ] Author mugshot uploaded
+- [ ] Article submitted on `/submit-article/`
+- [ ] Post live / confirmation
+
+> ⚠️ GOL hard-gates `/submit-article/` behind a bio + author mugshot; the
+> mugshot page requires emailing GOL first: *"If you wish to write articles and
+> submit them for publishing, please email us first."* Once access is granted,
+> upload a mugshot, then submit the article from `GOL-ARTICLE.md`.
