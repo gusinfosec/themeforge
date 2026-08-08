@@ -69,8 +69,8 @@
 - [x] LinkedIn posts (user)
 - [x] Payhip store live + polished (banner, logo, categories, order)
 - [x] Prices aligned across Payhip / itch.io / ko-fi
-- [ ] Mastodon post (paste from §1)
-- [ ] X post (paste from §2)
+- [x] Mastodon post (paste from §1) — **LIVE** https://mastodon.social/@cyberlab/117061586779952470 (2026-08-08)
+- [ ] X post (paste from §2) — user has no X account; skipped
 - [ ] Show HN (paste from §3)
 - [ ] awesome-gnome PR (needs public repo URL — see §4)
 - [x] OMG!Ubuntu / FOSS emails (send from §5)
