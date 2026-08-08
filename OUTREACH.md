@@ -71,8 +71,8 @@
 - [x] Prices aligned across Payhip / itch.io / ko-fi
 - [x] Mastodon post (paste from §1) — **LIVE** https://mastodon.social/@cyberlab/117061586779952470 (2026-08-08)
 - [ ] X post (paste from §2) — user has no X account; skipped
-- [ ] Show HN (paste from §3)
-- [ ] awesome-gnome PR (needs public repo URL — see §4)
+- [ ] Show HN (paste from §3) — skipped: no Hacker News account
+- [x] awesome-gnome PR — **OPEN** https://github.com/Kazhnuz/awesome-gnome/pull/222 (repo now public: github.com/gusinfosec/themeforge)
 - [x] OMG!Ubuntu / FOSS emails (send from §5)
 
 ## 7. GamingOnLinux community article (in progress)
