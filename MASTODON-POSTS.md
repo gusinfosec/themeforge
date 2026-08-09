@@ -12,6 +12,28 @@ All posts below are **LIVE** on https://mastodon.social/@cyberlab (posted 2026-0
 | 6 | Games (itch.io) | ✅ LIVE | https://mastodon.social/@cyberlab/117061646852196767 |
 | 7 | Store hub (Payhip + itch) | ✅ LIVE + 📌 PINNED | https://mastodon.social/@cyberlab/117061902475860764 |
 | 8 | ThemeForge (earlier launch) | ✅ LIVE | https://mastodon.social/@cyberlab/117061586779952470 |
+| 9 | VendorSafe | 📝 READY | image: `~/Documents/outreach-assets/vendorsafe/mastodon-1200x630.png` |
+
+---
+
+## 9. VendorSafe — 📝 READY TO POST (draft Aug 9)
+
+**Image:** `~/Documents/outreach-assets/vendorsafe/mastodon-1200x630.png` (also `mastodon-square-1080.png`)
+
+Security questionnaires used to eat entire days. 🕐
+
+Upload any vendor questionnaire — PDF, Word, Excel, or plain text — and VendorSafe drafts audit-grade answers from your saved security profile.
+
+Review. Refine. Export to Word or PDF. Minutes, not days.
+
+✅ Parses PDF / DOCX / XLSX / pasted text
+✅ Answer bank: every reviewed answer makes the next questionnaire faster
+✅ Preloaded SIG Lite + CAIQ templates
+✅ Free to start — no card needed
+
+https://vendorsafe.dev
+
+#CyberSecurity #Compliance #GRC #SaaS #AI
 
 ---
 
