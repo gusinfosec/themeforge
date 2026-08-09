@@ -16,11 +16,12 @@ All posts below are **LIVE** on https://mastodon.social/@cyberlab (posted 2026-0
 
 ---
 
-## 9. VendorSafe — ✅ LIVE (posted 2026-08-09)
+## 9. VendorSafe — ✅ LIVE (posted 2026-08-09, edited same day)
 
 https://mastodon.social/@cyberlab/117064193889929882
 
 **Image used:** `~/Documents/outreach-assets/vendorsafe/mastodon-1200x630.png`
+**Note:** initial post was image-only (API text bug); edited within minutes to add full copy. Verified: text + image present.
 
 Security questionnaires used to eat entire days. 🕐
 
