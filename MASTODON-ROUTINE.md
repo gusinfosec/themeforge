@@ -34,10 +34,11 @@
 
 ---
 
-## 📋 Current status (checked 2026-08-08)
+## 📋 Current status (checked 2026-08-09)
 
 | Item | State |
 |---|---|
+| **VendorSafe post** | ✅ **LIVE** — https://mastodon.social/@cyberlab/117064193889929882 (branded card image, posted via API) |
 | Thunderbird question (@simonzerafa) | ⏳ Our reply live — no answer from Simon yet |
 | Booster replies (@FDT123, @prometheus, @eutechnews) | ✅ All 3 posted + logged in FEEDBACK.md |
 | Pending replies | None — nothing new since last check |
