@@ -188,9 +188,8 @@ https://cyberlab.itch.io
 Payhip (ThemeForge + games + toolkits, EU VAT handled): https://payhip.com/cyberlabgames
 itch.io (games + ThemeForge): https://cyberlab.itch.io
 
-🛠️ Tools:
+🛠️ Free tools:
 sweep-lite — zero-dependency drop folder: https://github.com/gusinfosec/sweep-lite
-ThemeForge — one-click GNOME theming ($12): https://github.com/gusinfosec/themeforge
 
 #Linux #GNOME #IndieDev #OpenSource #GameDev
 
@@ -200,9 +199,11 @@ section (sweep-lite + themeforge GitHub). Verified: still pinned, HTTP 200,
 **2026-08-12 reorder:** storefront lines flipped — **itch.io first** (games
 storefront, US audience), Payhip below. Verified: itch before payhip, still
 pinned.
-**2026-08-12 honesty tweak:** section renamed "🛠️ Tools:" (was "Free & open
-source tools") and ThemeForge marked **($12)** — no price surprises under the
-free-tools banner. Verified: renamed, price shown, still pinned.
+**2026-08-12 honesty tweak → final:** section is now **"🛠️ Free tools:"** and
+contains **only sweep-lite** — ThemeForge moved out (it's already listed in
+the storefront lines above, so it loses no exposure). Now the "free" header is
+100% true, and gmail-organizer slots in here at launch next week. Verified:
+HTTP 200, still pinned, itch first, 327 chars (headroom for #2).
 
 ---
 
