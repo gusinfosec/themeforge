@@ -74,6 +74,9 @@ AI by default (Ollama), free, MIT."* Privacy angle = the hook (sender+subject
 only, never body).
 **Launch checklist:** flip repo public → generate card + demo (reuse sweep-lite
 flow) → post via API → mark LIVE here.
+**Planned launch: next week (~2026-08-19).** Until then: repo stays private,
+no posts. (After launch, the pinned hub §7 can add the gmail-organizer GitHub
+link.)
 
 ---
 
@@ -185,7 +188,15 @@ https://cyberlab.itch.io
 Payhip (ThemeForge + games + toolkits, EU VAT handled): https://payhip.com/cyberlabgames
 itch.io (games + ThemeForge): https://cyberlab.itch.io
 
+🛠️ Free & open source tools:
+sweep-lite — zero-dependency drop folder: https://github.com/gusinfosec/sweep-lite
+ThemeForge — one-click GNOME theming: https://github.com/gusinfosec/themeforge
+
 #Linux #GNOME #IndieDev #OpenSource #GameDev
+
+**2026-08-12 cross-link:** edited to add the "Free & open source tools"
+section (sweep-lite + themeforge GitHub). Verified: still pinned, HTTP 200,
+420 chars. This is now the single discoverable entry point for all tools.
 
 ---
 
