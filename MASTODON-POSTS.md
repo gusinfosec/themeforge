@@ -197,6 +197,9 @@ ThemeForge — one-click GNOME theming: https://github.com/gusinfosec/themeforge
 **2026-08-12 cross-link:** edited to add the "Free & open source tools"
 section (sweep-lite + themeforge GitHub). Verified: still pinned, HTTP 200,
 420 chars. This is now the single discoverable entry point for all tools.
+**2026-08-12 reorder:** storefront lines flipped — **itch.io first** (games
+storefront, US audience), Payhip below. Verified: itch before payhip, still
+pinned.
 
 ---
 
