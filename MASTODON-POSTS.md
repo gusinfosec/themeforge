@@ -14,6 +14,7 @@ All posts below are **LIVE** on https://mastodon.social/@cyberlab (posted 2026-0
 | 8 | ThemeForge (earlier launch) | ✅ LIVE | https://mastodon.social/@cyberlab/117061586779952470 |
 | 9 | VendorSafe | ✅ LIVE | https://mastodon.social/@cyberlab/117064193889929882 |
 | 10 | **sweep-lite** (tiny tools #1) | ✅ LIVE (2026-08-12) | https://mastodon.social/@cyberlab/117083787218264440 |
+| 11 | **gmail-organizer** (tiny tools #2) | 🔒 PRIVATE — ready to launch | github.com/gusinfosec/gmail-organizer (private) |
 
 ---
 
@@ -56,6 +57,23 @@ https://github.com/gusinfosec/sweep-lite
 First of a series of small, useful, privacy-first tools — more coming. 🛠️
 
 #OpenSource #Python #Productivity #FOSS #Linux
+
+---
+
+---
+
+## 11. gmail-organizer (tiny tools #2) — 🔒 PRIVATE, READY TO LAUNCH
+
+**Repo:** https://github.com/gusinfosec/gmail-organizer (**PRIVATE** — flip to
+public at launch, do not share link yet)
+**Version:** 1.0.0 — packaged, sanitized (zero personal data), `--version` works,
+syntax OK, pushed to GitHub.
+**Pitch for the post:** *"Your inbox, filed and archived automatically. Rules
+first, AI only for what's left — and it never reads your email bodies. Local
+AI by default (Ollama), free, MIT."* Privacy angle = the hook (sender+subject
+only, never body).
+**Launch checklist:** flip repo public → generate card + demo (reuse sweep-lite
+flow) → post via API → mark LIVE here.
 
 ---
 
