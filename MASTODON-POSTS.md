@@ -188,9 +188,9 @@ https://cyberlab.itch.io
 Payhip (ThemeForge + games + toolkits, EU VAT handled): https://payhip.com/cyberlabgames
 itch.io (games + ThemeForge): https://cyberlab.itch.io
 
-🛠️ Free & open source tools:
+🛠️ Tools:
 sweep-lite — zero-dependency drop folder: https://github.com/gusinfosec/sweep-lite
-ThemeForge — one-click GNOME theming: https://github.com/gusinfosec/themeforge
+ThemeForge — one-click GNOME theming ($12): https://github.com/gusinfosec/themeforge
 
 #Linux #GNOME #IndieDev #OpenSource #GameDev
 
@@ -200,6 +200,9 @@ section (sweep-lite + themeforge GitHub). Verified: still pinned, HTTP 200,
 **2026-08-12 reorder:** storefront lines flipped — **itch.io first** (games
 storefront, US audience), Payhip below. Verified: itch before payhip, still
 pinned.
+**2026-08-12 honesty tweak:** section renamed "🛠️ Tools:" (was "Free & open
+source tools") and ThemeForge marked **($12)** — no price surprises under the
+free-tools banner. Verified: renamed, price shown, still pinned.
 
 ---
 
