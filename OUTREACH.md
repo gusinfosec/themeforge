@@ -75,9 +75,11 @@
 - [x] awesome-gnome PR — **OPEN** https://github.com/Kazhnuz/awesome-gnome/pull/222 (repo now public: github.com/gusinfosec/themeforge)
 - [x] OMG!Ubuntu / FOSS emails (send from §5)
 
-## 7. GamingOnLinux community article (in progress)
+## 7. GamingOnLinux community article (CLOSED — declined 2026-08-11)
 
-> Status as of 2026-08-08. Account: `cyberlab` on gamingonlinux.com.
+> Status as of 2026-08-11. Account: `cyberlab` on gamingonlinux.com.
+> **Outcome: Liam replied 2026-08-11 — GOL does not accept anything that
+> involves AI coding at the moment. Pitch declined; thread closed.**
 
 - [x] Account created + **activated** (verified with a fresh session — earlier
       "not activated" was a stale browser-cache false alarm)
@@ -88,11 +90,13 @@
 - [x] Access email drafted + saved: `GOL-EMAIL.md` (project root) — send from
       `info@cyberglobal.ai` to `contact@gamingonlinux.com`
 - [x] Access email **sent** to `contact@gamingonlinux.com` (2026-08-08)
-- [ ] GOL enables article-writer access (author mugshot upload on
-      `usercp.php?module=author_photo`)
-- [ ] Author mugshot uploaded
-- [ ] Article submitted on `/submit-article/`
-- [ ] Post live / confirmation
+- [x] **Declined 2026-08-11** — GOL: "we don't accept anything that has AI
+      coding at the moment". Thread closed.
+
+> 💡 **Signal for future pitches:** GOL currently rejects projects built with
+> AI coding assistants. If the AI-assist angle matters to other outlets,
+> leading with "hand-crafted / fully human-written" may be safer — or check
+> the outlet's current policy before investing time.
 
 > ⚠️ GOL hard-gates `/submit-article/` behind a bio + author mugshot; the
 > mugshot page requires emailing GOL first: *"If you wish to write articles and

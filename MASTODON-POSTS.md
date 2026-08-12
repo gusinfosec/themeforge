@@ -21,6 +21,7 @@ All posts below are **LIVE** on https://mastodon.social/@cyberlab (posted 2026-0
 https://mastodon.social/@cyberlab/117064193889929882
 
 **Image used:** `~/Documents/outreach-assets/vendorsafe/mastodon-1200x630.png`
+**2026-08-09 refresh:** image replaced with final branded card (media `117067741809809678`) - fixed sub-copy clipping + score layout. Verified via API: text + new image present.
 **Note:** initial post was image-only (API text bug); edited within minutes to add full copy. Verified: text + image present.
 
 Security questionnaires used to eat entire days. 🕐
@@ -77,6 +78,8 @@ https://propaudit.io
 ---
 
 ## 4. InboxSafe (apps) — LIVE
+**2026-08-09:** image attached — new branded card (media `117067772930695971`); text re-formatted with line breaks. Verified: text + image present.
+
 
 Your inbox is the #1 attack surface. InboxSafe scans every email and LinkedIn
 message for phishing signals the moment it arrives — before you click anything.

@@ -34,15 +34,17 @@
 
 ---
 
-## 📋 Current status (checked 2026-08-09)
+## 📋 Current status (checked 2026-08-11)
 
 | Item | State |
 |---|---|
 | **VendorSafe post** | ✅ **LIVE** — https://mastodon.social/@cyberlab/117064193889929882 (branded card image, posted via API) |
+| Siteintel thread | ✅ **Closed 2026-08-11** — our reply https://mastodon.social/@cyberlab/117077906758170203; Siteintel replied warmly + favourited + followed back; we **favourited** their reply (117079300594574452, verified true) — no further reply needed, loop closed |
+| prometheus GitLab/agentic thread | ✅ Both replies live (agentic joke + GitLab CI job announcement) — no pending ball |
 | Thunderbird question (@simonzerafa) | ⏳ Our reply live — no answer from Simon yet |
 | Booster replies (@FDT123, @prometheus, @eutechnews) | ✅ All 3 posted + logged in FEEDBACK.md |
 | Pending replies | None — nothing new since last check |
-| GamingOnLinux | ⏳ Waiting on Liam (email sent 2026-08-08) |
+| GamingOnLinux | ❌ **Declined 2026-08-11** — Liam replied: GOL doesn't accept anything with AI coding at the moment. Thread closed; consider re-pitching when policy changes |
 | awesome-gnome PR #222 | ✅ Open |
 
 ## 🔗 Trackers
