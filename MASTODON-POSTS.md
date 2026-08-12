@@ -13,6 +13,46 @@ All posts below are **LIVE** on https://mastodon.social/@cyberlab (posted 2026-0
 | 7 | Store hub (Payhip + itch) | ✅ LIVE + 📌 PINNED | https://mastodon.social/@cyberlab/117061902475860764 |
 | 8 | ThemeForge (earlier launch) | ✅ LIVE | https://mastodon.social/@cyberlab/117061586779952470 |
 | 9 | VendorSafe | ✅ LIVE | https://mastodon.social/@cyberlab/117064193889929882 |
+| 10 | **sweep-lite** (tiny tools #1) | 🚀 READY TO POST | — |
+
+---
+
+## 10. sweep-lite (tiny tools #1) — 🚀 READY TO POST
+
+**Repo:** https://github.com/gusinfosec/sweep-lite (public, MIT)
+**Image used:** `~/projects/outreach-assets/sweep-lite/mastodon-1200x630.png`
+**Series note:** first of a **"tiny tools"** series — small, useful, privacy-first
+software to build brand + trust (planned #2: Gmail organizer, #3: …). Launches
+cross-link the store hub + product accounts.
+
+> 📌 Posting flow (per routine): verify repo link + card, post via API, then
+> update status → ✅ LIVE + URL below.
+
+---
+
+My Downloads folder used to be a war zone. 🧹
+
+So I built **sweep-lite** — a zero-dependency drop folder. Drop a file in, it
+sorts itself into the right folder. That's the whole app.
+
+No pip installs. No API keys. No config files. One Python file — 100% local,
+your files never leave your machine.
+
+→ invoice.pdf → Documents/
+→ photo.jpg → Images/
+→ clip.mp4 → Videos/
+→ backup.zip → Archives/
+
+Safe by default: never overwrites a file, waits for downloads to finish,
+preview everything with --dry-run.
+
+Free. Open source. MIT.
+
+https://github.com/gusinfosec/sweep-lite
+
+First of a series of small, useful, privacy-first tools — more coming. 🛠️
+
+#OpenSource #Python #Productivity #FOSS #Linux
 
 ---
 
