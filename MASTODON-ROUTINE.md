@@ -1,6 +1,8 @@
 # MASTODON-ROUTINE.md — daily check-in & reply policy
 
 > **Cadence:** check once a day, or every two days — whichever fits.
+> **Reminder:** ntfy push "☕ Mastodon check-in" every morning at **09:00**
+> (riverstone `mastodon-checkin.timer`, script `~/scripts/mastodon-checkin.sh`).
 > **Rule:** NEVER post a reply or new post without showing the user the draft
 > and getting a "go ahead" first. Check → summarize → await approval → post.
 
