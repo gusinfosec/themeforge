@@ -13,20 +13,23 @@ All posts below are **LIVE** on https://mastodon.social/@cyberlab (posted 2026-0
 | 7 | Store hub (Payhip + itch) | ✅ LIVE + 📌 PINNED | https://mastodon.social/@cyberlab/117061902475860764 |
 | 8 | ThemeForge (earlier launch) | ✅ LIVE | https://mastodon.social/@cyberlab/117061586779952470 |
 | 9 | VendorSafe | ✅ LIVE | https://mastodon.social/@cyberlab/117064193889929882 |
-| 10 | **sweep-lite** (tiny tools #1) | 🚀 READY TO POST | — |
+| 10 | **sweep-lite** (tiny tools #1) | ✅ LIVE (2026-08-12) | https://mastodon.social/@cyberlab/117083787218264440 |
 
 ---
 
-## 10. sweep-lite (tiny tools #1) — 🚀 READY TO POST
+## 10. sweep-lite (tiny tools #1) — ✅ LIVE (posted 2026-08-12)
 
-**Repo:** https://github.com/gusinfosec/sweep-lite (public, MIT)
-**Image used:** `~/projects/outreach-assets/sweep-lite/mastodon-1200x630.png`
+https://mastodon.social/@cyberlab/117083787218264440
+
+**Repo:** https://github.com/gusinfosec/sweep-lite (public, MIT, v1.0.1)
+**Media used:** card `~/projects/outreach-assets/sweep-lite/mastodon-1200x630.png`
++ **animated demo** `demo.mp4` (18s, auto-play gifv) — both uploaded via API,
+verified in post response.
+**Note:** initial draft was 712 chars → trimmed to 493 to fit the 500-char
+limit (kept arrows + demo line + hashtags). Card media `117083785102005736`,
+demo `117083785212749858`.
 **Series note:** first of a **"tiny tools"** series — small, useful, privacy-first
-software to build brand + trust (planned #2: Gmail organizer, #3: …). Launches
-cross-link the store hub + product accounts.
-
-> 📌 Posting flow (per routine): verify repo link + card, post via API, then
-> update status → ✅ LIVE + URL below.
+software to build brand + trust (planned #2: Gmail organizer, #3: …).
 
 ---
 
