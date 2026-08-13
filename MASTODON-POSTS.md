@@ -15,6 +15,22 @@ All posts below are **LIVE** on https://mastodon.social/@cyberlab (posted 2026-0
 | 9 | VendorSafe | ✅ LIVE | https://mastodon.social/@cyberlab/117064193889929882 |
 | 10 | **sweep-lite** (tiny tools #1) | ✅ LIVE (2026-08-12) | https://mastodon.social/@cyberlab/117083787218264440 |
 | 11 | **gmail-organizer** (tiny tools #2) | 🔒 PRIVATE — ready to launch | github.com/gusinfosec/gmail-organizer (private) |
+| 12 | **AI Workflow Kit** (tiny tools #3) | 🔒 PRIVATE — ready to launch | github.com/gusinfosec/ai-workflow-kit (private) |
+
+---
+
+## 📅 LAUNCH WEEK — next week (~2026-08-19)
+
+Two free tools launch the same week. Keep both private until launch day.
+
+| # | Tool | Repo | Launch assets | Status |
+|---|---|---|---|---|
+| 2 | **gmail-organizer** (inbox) | github.com/gusinfosec/gmail-organizer (private) | §11 below (card + demo to generate) | 🔒 ready |
+| 3 | **AI Workflow Kit** (dev guardrails) | github.com/gusinfosec/ai-workflow-kit (private) | `~/projects/outreach-assets/ai-workflow-kit/LAUNCH.md` + cards done | 🔒 ready |
+
+**Launch-day order:** gmail-organizer first, then AI Workflow Kit (or as you prefer).
+Both: flip repo public → attach card → post via API → mark LIVE below → add both
+links to the pinned hub §7 free-tools section.
 
 ---
 
@@ -59,6 +75,27 @@ First of a series of small, useful, privacy-first tools — more coming. 🛠️
 #OpenSource #Python #Productivity #FOSS #Linux
 
 ---
+
+---
+
+## 12. AI Workflow Kit (tiny tools #3) — 🔒 PRIVATE, READY TO LAUNCH
+
+**Repo:** https://github.com/gusinfosec/ai-workflow-kit (**PRIVATE** — public
+edition prebuilt, flip to public at launch)
+**What it is:** portable guardrails for AI-assisted development — AGENTS.md +
+spec/roadmap/tasks templates + reusable skills. One command bootstraps any
+project, works with any coding agent.
+**Public edition:** `~/projects/ai-workflow-kit-public/` (generalized, MIT,
+verified zero private strings) + `.tar.gz` — rebuild: `./make-public-edition.sh`
+**Cards:** `~/projects/outreach-assets/ai-workflow-kit/mastodon-1200x630.png`
++ `mastodon-square-1080.png` (done)
+**Post copy + GitHub fields:** `~/projects/outreach-assets/ai-workflow-kit/LAUNCH.md`
+(draft 422/500 chars, verified)
+**Launch checklist:** create public GitHub repo (`gh repo create … --public
+--source=~/projects/ai-workflow-kit-public --push`) → post with card → add
+link to pinned hub §7 free-tools section (kit = #3 after gmail-organizer).
+**Planned launch: next week (~2026-08-19).** Until then: repo stays private,
+no posts.
 
 ---
 
