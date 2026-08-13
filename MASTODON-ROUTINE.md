@@ -36,7 +36,7 @@
 
 ---
 
-## 📋 Current status (checked 2026-08-11)
+## 📋 Current status (checked 2026-08-13)
 
 | Item | State |
 |---|---|
