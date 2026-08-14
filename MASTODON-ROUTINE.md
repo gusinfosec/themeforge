@@ -23,10 +23,21 @@
    curl -s --max-time 15 -H "Authorization: Bearer $TOKEN" -H 'Accept: application/json' \
      'https://mastodon.social/api/v1/statuses/<our-status-id>/context'
    ```
-3. **Summarize for the user** — what's new, who, what it says. Flag anything
-   that needs a reply or action.
-4. **Await approval** — present the proposed reply draft. Post ONLY on "go ahead".
-5. **Log** — product signals/questions → `FEEDBACK.md`; new posts → `MASTODON-POSTS.md`.
+3. **GitHub traffic** (free-tools repos — skip private ones, they show 0s):
+   ```bash
+   for r in sweep-lite gmail-organizer ai-workflow-kit; do
+     echo "=== $r ==="
+     gh api repos/gusinfosec/$r/traffic/clones 2>/dev/null | python3 -c \
+       "import json,sys; d=json.load(sys.stdin); print('clones', d.get('count'), '| uniques', d.get('uniques'))"
+     gh api repos/gusinfosec/$r/traffic/views 2>/dev/null | python3 -c \
+       "import json,sys; d=json.load(sys.stdin); print('views ', d.get('count'), '| uniques', d.get('uniques'))"
+   done
+   ```
+4. **Summarize for the user** — what's new, who, what it says, plus the clone/view
+   trend. Flag anything that needs a reply or action.
+5. **Await approval** — present the proposed reply draft. Post ONLY on "go ahead".
+6. **Log** — product signals/questions → `FEEDBACK.md`; new posts → `MASTODON-POSTS.md`;
+   traffic numbers → update the table below.
 
 ## ✅ Approval gate (non-negotiable)
 
@@ -48,6 +59,7 @@
 | Pending replies | None — nothing new since last check |
 | GamingOnLinux | ❌ **Declined 2026-08-11** — Liam replied: GOL doesn't accept anything with AI coding at the moment. Thread closed; consider re-pitching when policy changes |
 | awesome-gnome PR #222 | ✅ Open |
+| GitHub traffic (sweep-lite) | 📈 18 clones / 8 unique cloners / 3 views (14-day window, checked 2026-08-13) |
 
 ## 🔗 Trackers
 
