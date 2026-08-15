@@ -16,6 +16,29 @@ All posts below are **LIVE** on https://mastodon.social/@cyberlab (posted 2026-0
 | 10 | **sweep-lite** (tiny tools #1) | ✅ LIVE (2026-08-12) | https://mastodon.social/@cyberlab/117083787218264440 |
 | 11 | **gmail-organizer** (tiny tools #2) | 🔒 PRIVATE — ready to launch | github.com/gusinfosec/gmail-organizer (private) |
 | 12 | **AI Workflow Kit** (tiny tools #3) | 🔒 PRIVATE — ready to launch | github.com/gusinfosec/ai-workflow-kit (private) |
+| 13 | **Thunderbird Organizer** | 🔒 READY — awaiting ATN approval + go-ahead | organizer.cyberglobal.ai |
+
+---
+
+## 13. Thunderbird Organizer — 🔒 READY (draft, awaiting ATN approval)
+
+**Card:** `~/projects/outreach-assets/thunderbird-organizer/mastodon-1200x630.png`
+**Link:** https://organizer.cyberglobal.ai (landing + Pro checkout live)
+**Char count:** 467 / 500
+
+> Thunderbird Organizer is here 📬⚡
+>
+> Rules-first: write sender rules once — Finance, Trash, Archive — matched mail files instantly. Zero network calls.
+>
+> Everything else? AI drafts suggestions from sender + subject in ~1s. You approve every move — Apply or Skip.
+>
+> 🔒 Private by design: message bodies never leave your machine. No account needed.
+>
+> Free to start · Pro $7/mo or $59/yr → organizer.cyberglobal.ai
+>
+> #Thunderbird #Email #InboxZero #Productivity #AI #CyberGlobal
+
+**Gate:** post ONLY after ATN approves the listing (v0.3.2 has the Pro gate) + user "go ahead".
 
 ---
 
