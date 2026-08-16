@@ -17,6 +17,35 @@ All posts below are **LIVE** on https://mastodon.social/@cyberlab (posted 2026-0
 | 11 | **gmail-organizer** (tiny tools #2) | 🔒 PRIVATE — ready to launch | github.com/gusinfosec/gmail-organizer (private) |
 | 12 | **AI Workflow Kit** (tiny tools #3) | 🔒 PRIVATE — ready to launch | github.com/gusinfosec/ai-workflow-kit (private) |
 | 13 | **Thunderbird Organizer** | 🔒 READY — awaiting ATN approval + go-ahead | organizer.cyberglobal.ai |
+| 14 | **InboxSafe for Thunderbird** | 🔒 READY — awaiting testing + ATN + landing | inboxsafe.cyberglobal.ai (⚠️ provision) |
+
+---
+
+## 14. InboxSafe for Thunderbird — 🔒 READY (draft, awaiting testing + ATN + landing)
+
+**Card:** `~/projects/outreach-assets/inboxsafe-thunderbird/mastodon-1200x630.png`
+**Link:** https://inboxsafe.cyberglobal.ai (⚠️ domain + landing not yet provisioned)
+**Char count:** 496 / 500
+
+> New Thunderbird add-on: InboxSafe 🛡📬
+>
+> AI phishing detection inside Thunderbird — where attacks actually land. It
+> reads the full message, not just webmail.
+>
+> Every scan checks:
+> ✅ Spoofed senders — "Amazon" from amaz0n-payment.xyz
+> ✅ Malicious links & shorteners
+> ✅ Executable attachments
+> ✅ Social-engineering language (AI risk scoring)
+>
+> 🔒 Bodies stay local · Free: 5 AI scans/day · Pro $7/mo or $59/yr
+>
+> → inboxsafe.cyberglobal.ai
+>
+> #Thunderbird #EmailSecurity #Phishing #Cybersecurity #AI #CyberGlobal
+
+**Full kit (PH + LinkedIn + checklist):**
+`~/projects/outreach-assets/inboxsafe-thunderbird/LAUNCH.md`
 
 ---
 
