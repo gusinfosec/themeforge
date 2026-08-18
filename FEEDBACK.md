@@ -37,6 +37,10 @@ replies, escalate Thunderbird to a serious feature request.
 | 🔁 Boost | @FDT123 (kolektiva.social) | InboxSafe | Fediverse reach — ✅ replied |
 | 🔁 Boost | @prometheus (pmth.us) | MergeMind | Fediverse reach — ✅ replied |
 | 💬 Mention | @simonzerafa (infosec.exchange) | InboxSafe | See #1 above — ✅ replied |
+| ❤️ Favourite | @DarkRockStudios | gmail-organizer | First engagement on the new tool (2026-08-17) — ✅ replied https://mastodon.social/@cyberlab/117118587106442543 |
+| 🔁 Boost | @python (tagpush.app) | sweep-lite | Fediverse reach (2026-08-12) |
+| 🔁 Boost | @prometheus (pmth.us) | sweep-lite | Fediverse reach (2026-08-12) |
+| ❤️ Favourite | @ab78702 (mamot.fr) | sweep-lite | Fediverse reach (2026-08-12) |
 
 **Thank-you replies sent 2026-08-08** (all public, verified 200):
 - @FDT123 → https://mastodon.social/@cyberlab/117062100721808760

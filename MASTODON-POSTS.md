@@ -14,10 +14,23 @@ All posts below are **LIVE** on https://mastodon.social/@cyberlab (posted 2026-0
 | 8 | ThemeForge (earlier launch) | ✅ LIVE | https://mastodon.social/@cyberlab/117061586779952470 |
 | 9 | VendorSafe | ✅ LIVE | https://mastodon.social/@cyberlab/117064193889929882 |
 | 10 | **sweep-lite** (tiny tools #1) | ✅ LIVE (2026-08-12) | https://mastodon.social/@cyberlab/117083787218264440 |
-| 11 | **gmail-organizer** (tiny tools #2) | 🔒 PRIVATE — ready to launch | github.com/gusinfosec/gmail-organizer (private) |
-| 12 | **AI Workflow Kit** (tiny tools #3) | 🔒 PRIVATE — ready to launch | github.com/gusinfosec/ai-workflow-kit (private) |
-| 13 | **Thunderbird Organizer** | 🔒 READY — awaiting ATN approval + go-ahead | organizer.cyberglobal.ai |
-| 14 | **InboxSafe for Thunderbird** | 🔒 READY — awaiting testing + ATN + landing | inboxsafe.cyberglobal.ai (⚠️ provision) |
+| 11 | **gmail-organizer** (tiny tools #2) | ✅ LIVE (2026-08-17) | https://mastodon.social/@cyberlab/117113174621933149 |
+| 12 | **AI Workflow Kit** (tiny tools #3) | ⏳ ON HOLD (user 2026-08-18) — gmail-organizer is moving but still held | github.com/gusinfosec/ai-workflow-kit (private) |
+| 13 | **Thunderbird Organizer** | ⏳ ATN review — v0.3.0 in review → approval unlocks v0.3.2 upload → launch | organizer.cyberglobal.ai |
+| 14 | **InboxSafe for Thunderbird** | ⏳ ATN + testing + landing (⚠️ provision inboxsafe.cyberglobal.ai) | inboxsafe.cyberglobal.ai (⚠️ provision) |
+
+---
+
+## ⏳ Launch queue — Thunderbird add-ons (PH + Mastodon)
+
+Two launches queued (one PH launch at a time — Organizer first, InboxSafe-TB
+~2–4 weeks later). Kits with all copy (Mastodon post, PH fields, description,
+first comment, LinkedIn companion) live in the LAUNCH.md files.
+
+| Task | Channels | Gate to clear before launch |
+|---|---|---|
+| **Thunderbird Organizer** (#13) | PH page · Mastodon post #13 (467/500 ✓, card) · LinkedIn | ATN approves **v0.3.0** → **upload v0.3.2** (Pro gate + free-tier counter) → "listed" confirmed → user go-ahead |
+| **InboxSafe for Thunderbird** (#14) | PH page · Mastodon post #14 (496/500 ✓, card) · LinkedIn | Real-message testing ✓ · ATN approval · **provision inboxsafe.cyberglobal.ai** landing + checkout → go-ahead |
 
 ---
 
@@ -130,7 +143,16 @@ First of a series of small, useful, privacy-first tools — more coming. 🛠️
 
 ---
 
-## 12. AI Workflow Kit (tiny tools #3) — 🔒 PRIVATE, READY TO LAUNCH
+## 12. AI Workflow Kit (tiny tools #3) — ⏳ ON HOLD (launch ~2 days out)
+
+> **2026-08-17 decision:** hold the launch until gmail-organizer (#11) shows
+> movement (clones/views/stars). Both are free-tools-series launches — space
+> them so #11 gets its week of attention. Reassess at the morning check-in
+> (~Aug 19-20); ship #12 when #11's numbers trend up.
+>
+> **2026-08-18 update:** gmail-organizer now shows movement (21 clones / 14
+> unique cloners / 1 star), but the user chose to **keep holding** #12. Reassess
+> at a later morning brief.
 
 **Repo:** https://github.com/gusinfosec/ai-workflow-kit (**PRIVATE** — public
 edition prebuilt, flip to public at launch)
@@ -151,21 +173,43 @@ no posts.
 
 ---
 
-## 11. gmail-organizer (tiny tools #2) — 🔒 PRIVATE, READY TO LAUNCH
+## 11. gmail-organizer (tiny tools #2) — ✅ LIVE (posted 2026-08-17)
 
-**Repo:** https://github.com/gusinfosec/gmail-organizer (**PRIVATE** — flip to
-public at launch, do not share link yet)
+https://mastodon.social/@cyberlab/117113174621933149
+
+**Repo:** https://github.com/gusinfosec/gmail-organizer (**PUBLIC** since 2026-08-17, MIT, v1.0.0)
+**Media used:** card `mastodon-1200x630.png` (media `117113173973883183`) +
+**demo** `demo.mp4` → gifv (media `117113174058004580`) — both attached, verified in post response.
+**Pinned hub §7:** updated same day — gmail-organizer added to 🛠️ Free tools as #2 (438/500 chars, still pinned).
 **Version:** 1.0.0 — packaged, sanitized (zero personal data), `--version` works,
 syntax OK, pushed to GitHub.
-**Pitch for the post:** *"Your inbox, filed and archived automatically. Rules
-first, AI only for what's left — and it never reads your email bodies. Local
-AI by default (Ollama), free, MIT."* Privacy angle = the hook (sender+subject
-only, never body).
-**Launch checklist:** flip repo public → generate card + demo (reuse sweep-lite
-flow) → post via API → mark LIVE here.
-**Planned launch: next week (~2026-08-19).** Until then: repo stays private,
-no posts. (After launch, the pinned hub §7 can add the gmail-organizer GitHub
-link.)
+**Card:** `~/projects/outreach-assets/gmail-organizer/mastodon-1200x630.png`
+(+ `mastodon-square-1080.png`) — generated, regenerable via `make-mastodon.py`
+**Demo:** `~/projects/outreach-assets/gmail-organizer/demo.mp4` (18s gifv,
+renderable via `render_demo.py`) — attach card + demo like sweep-lite
+**Full kit (post + GitHub fields + runbook):**
+`~/projects/outreach-assets/gmail-organizer/LAUNCH.md`
+**Char count:** 489 / 500
+
+> My inbox used to be a war zone too. 📬
+>
+> So I built **gmail-organizer** — rules-first filing that runs 3× a day: label by sender, archive the old, trash the noise.
+>
+> AI classifies whatever's left — reading only the sender + subject, never the body. Local AI by default (Ollama) — zero data leaves your machine.
+>
+> Free. Open source. MIT.
+>
+> https://github.com/gusinfosec/gmail-organizer
+>
+> Second of a series of small, useful, privacy-first tools. 🛠️
+>
+> #OpenSource #Python #Productivity #FOSS #Gmail
+
+**Launch checklist:** ✅ done 2026-08-17 — repo public, post live with card +
+demo, pinned hub updated, token persisted at `~/.config/mastodon/token`.
+**Next:** #12 AI Workflow Kit — cards + LAUNCH.md ready in
+`~/projects/outreach-assets/ai-workflow-kit/`; repo `ai-workflow-kit` still
+private (public edition prebuilt).
 
 ---
 

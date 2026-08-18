@@ -1,10 +1,43 @@
 # MASTODON-ROUTINE.md — daily check-in & reply policy
 
+> **🔑 Token (2026-08-17):** persistent copy at `~/.config/mastodon/token`
+> (chmod 600, app `cyberlab-launch-cli`, scopes read + write:statuses +
+> write:media). The routine scripts read `/tmp/itchflow/masto_token.txt`
+> (restored on riverstone + this machine); if a reboot clears /tmp, restore
+> with: `cp ~/.config/mastodon/token /tmp/itchflow/masto_token.txt`
+> (and via ssh on riverstone). **Never commit or paste the token value.**
+
 > **Cadence:** check once a day, or every two days — whichever fits.
 > **Reminder:** ntfy push "☕ Mastodon check-in" every morning at **09:00**
-> (riverstone `mastodon-checkin.timer`, script `~/scripts/mastodon-checkin.sh`).
+> (riverstone `mastodon-checkin.timer`). The brief itself is one command —
+> `~/scripts/mastodon-brief.sh` — see "☕ Morning brief" below.
 > **Rule:** NEVER post a reply or new post without showing the user the draft
 > and getting a "go ahead" first. Check → summarize → await approval → post.
+
+---
+
+## ☕ Morning brief (start here)
+
+Run the read-only brief, then summarize it for the user:
+
+```bash
+~/scripts/mastodon-brief.sh
+```
+
+It prints (and never posts):
+- Mastodon notifications **new since the last brief** — mentions, favourites, reblogs, follows
+- GitHub clones / views / stars for `sweep-lite`, `gmail-organizer`, `ai-workflow-kit`
+- A last-seen marker in `~/.cache/mastodon-brief/` so each run only shows what's new
+
+Then present the brief with these fixed agenda items (show drafts, await "go ahead"):
+
+1. New replies/mentions → propose a reply draft (never post first)
+2. New favourites/reblogs/follows → offer thank-you replies
+3. gmail-organizer traffic + stars (the #12 gate)
+4. Thunderbird add-ons — ATN review status (manual, not scripted)
+5. AI Workflow Kit #12 — still on hold (user 2026-08-18)
+6. @simonzerafa Thunderbird thread — reply once a TB add-on ships
+7. awesome-gnome PR #222 — still open
 
 ---
 
@@ -47,7 +80,7 @@
 
 ---
 
-## 📋 Current status (checked 2026-08-13)
+## 📋 Current status (checked 2026-08-18)
 
 | Item | State |
 |---|---|
@@ -56,10 +89,12 @@
 | prometheus GitLab/agentic thread | ✅ Both replies live (agentic joke + GitLab CI job announcement) — no pending ball |
 | Thunderbird question (@simonzerafa) | ⏳ Our reply live — no answer from Simon yet |
 | Booster replies (@FDT123, @prometheus, @eutechnews) | ✅ All 3 posted + logged in FEEDBACK.md |
-| Pending replies | None — nothing new since last check |
+| New engagement 2026-08-12→17 | @DarkRockStudios ❤️ gmail-organizer (✅ replied) · @python + @prometheus 🔁 sweep-lite · @ab78702 ❤️ sweep-lite (logged in FEEDBACK.md) |
+| AI Workflow Kit #12 | ⏳ **HOLD (user 2026-08-18)** — gmail-organizer shows movement (21 clones/1⭐) but user chose to keep holding |
+| Pending replies | None — no new replies/mentions needing a response (2026-08-18) |
 | GamingOnLinux | ❌ **Declined 2026-08-11** — Liam replied: GOL doesn't accept anything with AI coding at the moment. Thread closed; consider re-pitching when policy changes |
 | awesome-gnome PR #222 | ✅ Open |
-| GitHub traffic (sweep-lite) | 📈 18 clones / 8 unique cloners / 3 views (14-day window, checked 2026-08-13) |
+| GitHub traffic (free-tools) | 📈 sweep-lite 32 clones / 13 uniq / 0⭐ · gmail-organizer 21 clones / 14 uniq / 1⭐ (checked 2026-08-18) |
 
 ## 🔗 Trackers
 
